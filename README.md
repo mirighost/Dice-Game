@@ -1,2 +1,2 @@
 # Dice-Game
-First Game
+First Game with JavaScript
