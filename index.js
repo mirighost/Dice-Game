@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 // random numbers
 let randomNumber1 = (Math.floor(Math.random() * 6)) + 1;
@@ -21,4 +21,4 @@ else if (randomNumber1 == randomNumber2) {
 }
 else {
     document.querySelector("h1").innerHTML = "Player 2 Won";
-}
+};
